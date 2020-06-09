@@ -1,0 +1,17 @@
+{
+	"pluginName": "垃圾分类小助手",
+	"author": "Kerinlin",
+	"homepage": "https://github.com/Kerinlin",
+	"description": "垃圾分类小助手",
+	"main": "index.html",
+	"version": "0.0.1",
+	"preload": "preload.js",
+	"logo": "logo.png",
+	"features": [
+		{
+		  "code": "lj",
+		  "explain": "垃圾分类小助手",
+			"cmds":["垃圾","分类"]
+		}
+	]
+}
